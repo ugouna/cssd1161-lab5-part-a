@@ -1,2 +1,4 @@
 # cssd1161-lab5-part-a
-# Shuttle Bus Booking Application
+# Shuttle bus booking application
+**project docs**
+**wiki**
